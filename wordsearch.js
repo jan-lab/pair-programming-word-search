@@ -1,3 +1,5 @@
+// This was pair-programmed with Victor H.
+
 // Implement function to populate the transposed matrix for vertical search
 const transpose = function(matrix) {
   const newMatrix = [];
